@@ -1,0 +1,322 @@
+[DEBUG] [2016-05-05 14:43:41][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:43:41][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:43:41][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:43:41][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:43:41][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:44:41][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:44:41][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:44:41][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:44:41][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:44:41][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:45:17][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:45:18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:45:18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:45:18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:45:18][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:45:46][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:45:47][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:45:47][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:45:47][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:45:47][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:46:00][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:46:00][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:46:00][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:46:00][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:46:00][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:48:03][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:48:03][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:48:03][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:48:03][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:48:03][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:49:19][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:49:19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:49:19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:49:19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:49:19][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:49:19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:49:19][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 904723975.
+  [DEBUG] [2016-05-05 14:49:19][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@35ecfe07]
+  [DEBUG] [2016-05-05 14:49:20][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:50:27][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:50:28][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:50:28][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:50:28][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:50:28][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:50:28][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:50:28][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1416674952.
+  [DEBUG] [2016-05-05 14:50:28][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@5470be88]
+  [DEBUG] [2016-05-05 14:50:28][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:51:10][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:51:10][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:51:10][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:51:10][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:51:10][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:51:15][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:51:15][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1206507953.
+  [DEBUG] [2016-05-05 14:51:15][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@47e9d9b1]
+  [DEBUG] [2016-05-05 14:51:16][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 904723975.
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@35ecfe07]
+  [DEBUG] [2016-05-05 14:51:54][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:51:54][tech.javaleader.mybatis.dao.UserMapper.getUserById]==> Parameters: 1(Integer)
+  [DEBUG] [2016-05-05 14:51:54][tech.javaleader.mybatis.dao.UserMapper.getUserById]<==      Total: 1
+  [DEBUG] [2016-05-05 14:51:54][tech.javaleader.mybatis.dao.UserMapperTest][id=1,userName=quwanchi1,password=qiuwanchipassword,email=qiuwanchi@secoo.com]
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@35ecfe07]
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@35ecfe07]
+  [DEBUG] [2016-05-05 14:51:54][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 904723975 to pool.
+  [DEBUG] [2016-05-05 14:52:26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:52:26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:52:26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:52:26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:52:26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:52:26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:52:26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 904723975.
+  [DEBUG] [2016-05-05 14:52:26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@35ecfe07]
+  [DEBUG] [2016-05-05 14:52:26][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:52:35][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:52:35][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:52:35][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:52:35][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:52:35][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:52:35][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:52:36][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1416674952.
+  [DEBUG] [2016-05-05 14:52:36][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@5470be88]
+  [DEBUG] [2016-05-05 14:52:36][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:53:23][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:53:23][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:53:23][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:53:23][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:53:23][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:53:23][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:53:24][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 904723975.
+  [DEBUG] [2016-05-05 14:53:24][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@35ecfe07]
+  [DEBUG] [2016-05-05 14:53:24][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:53:48][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:53:48][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:53:48][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:53:48][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:53:48][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:53:48][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:53:49][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 904723975.
+  [DEBUG] [2016-05-05 14:53:49][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@35ecfe07]
+  [DEBUG] [2016-05-05 14:53:49][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:53:49][tech.javaleader.mybatis.dao.UserMapper.getUserById]==> Parameters: 1(Long)
+  [DEBUG] [2016-05-05 14:53:49][tech.javaleader.mybatis.dao.UserMapper.getUserById]<==      Total: 1
+  [DEBUG] [2016-05-05 14:53:49][tech.javaleader.mybatis.dao.UserMapperTest][id=1,userName=quwanchi1,password=qiuwanchipassword,email=qiuwanchi@secoo.com]
+  [DEBUG] [2016-05-05 14:53:49][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@35ecfe07]
+  [DEBUG] [2016-05-05 14:53:49][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@35ecfe07]
+  [DEBUG] [2016-05-05 14:53:49][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 904723975 to pool.
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1014593217.
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c7976c1]
+  [DEBUG] [2016-05-05 14:55:26][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:55:26][tech.javaleader.mybatis.dao.UserMapper.getUserById]==> Parameters: 1(Long)
+  [DEBUG] [2016-05-05 14:55:26][tech.javaleader.mybatis.dao.UserMapper.getUserById]<==      Total: 1
+  [DEBUG] [2016-05-05 14:55:26][tech.javaleader.mybatis.dao.UserMapperTest][id=1,userName=quwanchi1,password=qiuwanchipassword,email=qiuwanchi@secoo.com]
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c7976c1]
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@3c7976c1]
+  [DEBUG] [2016-05-05 14:55:26][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1014593217 to pool.
+  [DEBUG] [2016-05-05 14:56:59][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 14:56:59][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:56:59][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:56:59][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:56:59][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 130672250.
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7c9e67a]
+  [DEBUG] [2016-05-05 14:57:00][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:57:00][tech.javaleader.mybatis.dao.UserMapper.getUserById]==> Parameters: 1(Long)
+  [DEBUG] [2016-05-05 14:57:00][tech.javaleader.mybatis.dao.UserMapper.getUserById]<==      Total: 1
+  [DEBUG] [2016-05-05 14:57:00][tech.javaleader.mybatis.dao.UserMapperTest][id=1,userName=quwanchi1,password=qiuwanchipassword,email=qiuwanchi@secoo.com]
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@7c9e67a]
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@7c9e67a]
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 130672250 to pool.
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 181720683.
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@ad4d66b]
+  [DEBUG] [2016-05-05 14:57:00][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 14:57:00][tech.javaleader.mybatis.dao.UserMapper.getUserById]==> Parameters: 1(Long)
+  [DEBUG] [2016-05-05 14:57:00][tech.javaleader.mybatis.dao.UserMapper.getUserById]<==      Total: 1
+  [DEBUG] [2016-05-05 14:57:00][tech.javaleader.mybatis.dao.UserMapperTest][id=1,userName=quwanchi1,password=qiuwanchipassword,email=qiuwanchi@secoo.com]
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@ad4d66b]
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@ad4d66b]
+  [DEBUG] [2016-05-05 14:57:00][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 181720683 to pool.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1827795025.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6cf1f051]
+  [DEBUG] [2016-05-05 15:00:16][tech.javaleader.mybatis.dao.UserMapper.insertUser]==>  Preparing: INSERT INTO t_user(userName,password,email) VALUES(?,?,?) 
+  [DEBUG] [2016-05-05 15:00:16][tech.javaleader.mybatis.dao.UserMapper.insertUser]==> Parameters: qiuwanchi(String), password(String), email(String)
+  [DEBUG] [2016-05-05 15:00:16][tech.javaleader.mybatis.dao.UserMapper.insertUser]<==    Updates: 1
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@6cf1f051]
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6cf1f051]
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6cf1f051]
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1827795025 to pool.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:16][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1274367071.
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4bf54c5f]
+  [DEBUG] [2016-05-05 15:00:17][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 15:00:17][tech.javaleader.mybatis.dao.UserMapper.getUserById]==> Parameters: 1(Long)
+  [DEBUG] [2016-05-05 15:00:17][tech.javaleader.mybatis.dao.UserMapper.getUserById]<==      Total: 1
+  [DEBUG] [2016-05-05 15:00:17][tech.javaleader.mybatis.dao.UserMapperTest][id=1,userName=quwanchi1,password=qiuwanchipassword,email=qiuwanchi@secoo.com]
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@4bf54c5f]
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@4bf54c5f]
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1274367071 to pool.
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1409073314.
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@53fcc0a2]
+  [DEBUG] [2016-05-05 15:00:17][tech.javaleader.mybatis.dao.UserMapper.getUserById]==>  Preparing: SELECT * FROM t_user WHERE ID = ? 
+  [DEBUG] [2016-05-05 15:00:17][tech.javaleader.mybatis.dao.UserMapper.getUserById]==> Parameters: 1(Long)
+  [DEBUG] [2016-05-05 15:00:17][tech.javaleader.mybatis.dao.UserMapper.getUserById]<==      Total: 1
+  [DEBUG] [2016-05-05 15:00:17][tech.javaleader.mybatis.dao.UserMapperTest][id=1,userName=quwanchi1,password=qiuwanchipassword,email=qiuwanchi@secoo.com]
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@53fcc0a2]
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@53fcc0a2]
+  [DEBUG] [2016-05-05 15:00:17][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1409073314 to pool.
+  [DEBUG] [2016-05-05 15:00:36][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 963214183.
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@39697b67]
+  [DEBUG] [2016-05-05 15:00:37][tech.javaleader.mybatis.dao.UserMapper.insertUser]==>  Preparing: INSERT INTO t_user(userName,password,email) VALUES(?,?,?) 
+  [DEBUG] [2016-05-05 15:00:37][tech.javaleader.mybatis.dao.UserMapper.insertUser]==> Parameters: qiuwanchi(String), password(String), email(String)
+  [DEBUG] [2016-05-05 15:00:37][tech.javaleader.mybatis.dao.UserMapper.insertUser]<==    Updates: 1
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@39697b67]
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@39697b67]
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@39697b67]
+  [DEBUG] [2016-05-05 15:00:37][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 963214183 to pool.
+  [DEBUG] [2016-05-05 15:04:04][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 15:04:04][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:04][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:04][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:04][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:04][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:04:05][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 53594268.
+  [DEBUG] [2016-05-05 15:04:05][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@331c89c]
+  [DEBUG] [2016-05-05 15:04:05][tech.javaleader.mybatis.dao.UserMapper.insertUser]==>  Preparing: INSERT INTO t_user(userName,password,email) VALUES(?,?,?) 
+  [DEBUG] [2016-05-05 15:04:05][tech.javaleader.mybatis.dao.UserMapper.insertUser]==> Parameters: qiuwanchi(String), password(String), email(String)
+  [DEBUG] [2016-05-05 15:04:05][tech.javaleader.mybatis.dao.UserMapper.insertUser]<==    Updates: 1
+  [DEBUG] [2016-05-05 15:04:05][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@331c89c]
+  [DEBUG] [2016-05-05 15:04:05][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@331c89c]
+  [DEBUG] [2016-05-05 15:04:05][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@331c89c]
+  [DEBUG] [2016-05-05 15:04:05][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 53594268 to pool.
+  [DEBUG] [2016-05-05 15:04:05][tech.javaleader.mybatis.dao.UserMapperTest][id=0,userName=qiuwanchi,password=password,email=email]
+  [DEBUG] [2016-05-05 15:04:20][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 963214183.
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@39697b67]
+  [DEBUG] [2016-05-05 15:04:21][tech.javaleader.mybatis.dao.UserMapper.insertUser]==>  Preparing: INSERT INTO t_user(userName,password,email) VALUES(?,?,?) 
+  [DEBUG] [2016-05-05 15:04:21][tech.javaleader.mybatis.dao.UserMapper.insertUser]==> Parameters: qiuwanchi(String), password(String), email(String)
+  [DEBUG] [2016-05-05 15:04:21][tech.javaleader.mybatis.dao.UserMapper.insertUser]<==    Updates: 1
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@39697b67]
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@39697b67]
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@39697b67]
+  [DEBUG] [2016-05-05 15:04:21][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 963214183 to pool.
+  [DEBUG] [2016-05-05 15:04:21][tech.javaleader.mybatis.dao.UserMapperTest][id=0,userName=qiuwanchi,password=password,email=email]
+  [DEBUG] [2016-05-05 15:04:40][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 15:04:40][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:40][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:40][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:40][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:04:40][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:04:40][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1237624300.
+  [DEBUG] [2016-05-05 15:04:40][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@49c4a5ec]
+  [DEBUG] [2016-05-05 15:04:40][tech.javaleader.mybatis.dao.UserMapper.insertUser]==>  Preparing: INSERT INTO t_user(userName,password,email) VALUES(?,?,?) 
+  [DEBUG] [2016-05-05 15:04:40][tech.javaleader.mybatis.dao.UserMapper.insertUser]==> Parameters: qiuwanchi(String), password(String), email(String)
+  [DEBUG] [2016-05-05 15:04:40][tech.javaleader.mybatis.dao.UserMapper.insertUser]<==    Updates: 1
+  [DEBUG] [2016-05-05 15:05:13][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@49c4a5ec]
+  [DEBUG] [2016-05-05 15:05:13][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@49c4a5ec]
+  [DEBUG] [2016-05-05 15:05:13][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@49c4a5ec]
+  [DEBUG] [2016-05-05 15:05:13][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1237624300 to pool.
+  [DEBUG] [2016-05-05 15:05:13][tech.javaleader.mybatis.dao.UserMapperTest][id=0,userName=qiuwanchi,password=password,email=email]
+  [DEBUG] [2016-05-05 15:05:47][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 15:05:48][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:05:48][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:05:48][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:05:48][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:05:48][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:05:48][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1237624300.
+  [DEBUG] [2016-05-05 15:05:48][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@49c4a5ec]
+  [DEBUG] [2016-05-05 15:05:48][tech.javaleader.mybatis.dao.UserMapper.insertUser]==>  Preparing: INSERT INTO t_user(userName,password,email) VALUES(?,?,?) 
+  [DEBUG] [2016-05-05 15:05:48][tech.javaleader.mybatis.dao.UserMapper.insertUser]==> Parameters: qiuwanchi(String), password(String), email(String)
+  [DEBUG] [2016-05-05 15:05:48][tech.javaleader.mybatis.dao.UserMapper.insertUser]<==    Updates: 1
+  [DEBUG] [2016-05-05 15:05:51][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@49c4a5ec]
+  [DEBUG] [2016-05-05 15:05:51][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@49c4a5ec]
+  [DEBUG] [2016-05-05 15:05:51][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@49c4a5ec]
+  [DEBUG] [2016-05-05 15:05:51][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1237624300 to pool.
+  [DEBUG] [2016-05-05 15:05:51][tech.javaleader.mybatis.dao.UserMapperTest][id=0,userName=qiuwanchi,password=password,email=email]
+  [DEBUG] [2016-05-05 15:08:03][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 15:08:03][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:08:03][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:08:03][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:08:03][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:08:03][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:08:03][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1237624300.
+  [DEBUG] [2016-05-05 15:08:03][tech.javaleader.mybatis.dao.UserMapper.insertUser]==>  Preparing: INSERT INTO t_user(userName,password,email) VALUES(?,?,?) 
+  [DEBUG] [2016-05-05 15:08:03][tech.javaleader.mybatis.dao.UserMapper.insertUser]==> Parameters: qiuwanchi(String), password(String), email(String)
+  [DEBUG] [2016-05-05 15:08:03][tech.javaleader.mybatis.dao.UserMapper.insertUser]<==    Updates: 1
+  [DEBUG] [2016-05-05 15:08:05][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@49c4a5ec]
+  [DEBUG] [2016-05-05 15:08:05][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1237624300 to pool.
+  [DEBUG] [2016-05-05 15:08:11][tech.javaleader.mybatis.dao.UserMapperTest][id=0,userName=qiuwanchi,password=password,email=email]
+  [DEBUG] [2016-05-05 15:08:27][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 15:08:27][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:08:27][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:08:27][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:08:27][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:08:27][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:08:27][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 225005258.
+  [DEBUG] [2016-05-05 15:08:27][tech.javaleader.mybatis.dao.UserMapper.insertUser]==>  Preparing: INSERT INTO t_user(userName,password,email) VALUES(?,?,?) 
+  [DEBUG] [2016-05-05 15:08:27][tech.javaleader.mybatis.dao.UserMapper.insertUser]==> Parameters: qiuwanchi(String), password(String), email(String)
+  [DEBUG] [2016-05-05 15:08:27][tech.javaleader.mybatis.dao.UserMapper.insertUser]<==    Updates: 1
+  [DEBUG] [2016-05-05 15:09:33][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@d694eca]
+  [DEBUG] [2016-05-05 15:09:33][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 225005258 to pool.
+  [DEBUG] [2016-05-05 15:11:24][tech.javaleader.mybatis.dao.UserMapperTest][id=0,userName=qiuwanchi,password=password,email=email]
+  [DEBUG] [2016-05-05 15:12:54][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+  [DEBUG] [2016-05-05 15:13:14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:13:14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:13:14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:13:14][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+  [DEBUG] [2016-05-05 15:29:30][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+  [DEBUG] [2016-05-05 15:29:47][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 365984831.
+  [DEBUG] [2016-05-05 15:31:10][tech.javaleader.mybatis.dao.UserMapper.insertUser]==>  Preparing: INSERT INTO t_user(userName,password,email) VALUES(?,?,?) 
+  [DEBUG] [2016-05-05 15:32:07][tech.javaleader.mybatis.dao.UserMapper.insertUser]==> Parameters: qiuwanchi(String), password(String), email(String)
+  [DEBUG] [2016-05-05 15:32:10][tech.javaleader.mybatis.dao.UserMapper.insertUser]<==    Updates: 1
+  [DEBUG] [2016-05-05 15:32:53][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@15d07c3f]
+  [DEBUG] [2016-05-05 15:32:53][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 365984831 to pool.
+  [DEBUG] [2016-05-05 15:32:53][tech.javaleader.mybatis.dao.UserMapperTest][id=0,userName=qiuwanchi,password=password,email=email]
+  
